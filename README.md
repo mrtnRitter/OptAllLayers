@@ -7,8 +7,7 @@ Go recursively through pre-comps and their layers and inclucde or exclude invisi
 
 See it in action:
 
-https://dl.dropboxusercontent.com/u/3382161/OAL/OptAllLayers_Overwie.gif
-
+https://dl.dropboxusercontent.com/u/3382161/OAL/OptAllLayers_Overview.gif
 
 
 Installation:
@@ -22,3 +21,8 @@ Installation:
 Please allow scripts to write files in AFX-Settings to store your presetting. 
 
 https://dl.dropboxusercontent.com/u/3382161/OAL/0.PNG
+
+
+Note: 
+
+It can happen that the plugin seems to not response anymore on very, very large projects with a very huge amount of layers. Don't get nervous or impatient! The plugin is doing it's job, it's just the UI that hangs. Lean back and give it a couple of minutes. 
