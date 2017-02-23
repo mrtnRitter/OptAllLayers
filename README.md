@@ -5,7 +5,7 @@ Activate or deactivate or ignore motion blur and collapse transformation (the su
 
 Go recursively through pre-comps and their layers and inclucde or exclude invisible layers (usually masks). 
 
-See it in action:
+See the overview:
 
 https://dl.dropboxusercontent.com/u/3382161/OAL/OptAllLayers_Overview.gif
 
