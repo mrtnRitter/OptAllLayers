@@ -7,7 +7,7 @@ Go recursively through pre-comps and their layers and inclucde or exclude invisi
 
 See the overview:
 
-https://dl.dropboxusercontent.com/u/3382161/OAL/OptAllLayers_Overview.gif
+https://www.dropbox.com/s/hb8ri9y0nvyq2zm/OptAllLayers_Overview.gif?dl=0
 
 
 Installation:
@@ -20,7 +20,7 @@ Installation:
   
 Please allow scripts to write files in AFX-Settings to store your presetting. 
 
-https://dl.dropboxusercontent.com/u/3382161/OAL/0.PNG
+https://www.dropbox.com/s/z2wowgz07oljpo7/0.PNG?dl=0
 
 
 Note: 
