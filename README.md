@@ -32,8 +32,9 @@ It can happen that the plugin seems to not response anymore on very, very large 
 Changelog: 
 
 1.41
->> Layers with active shy-setting will be ignored by Collapse Transformation. This prevent layers from getting broken when 	certain effects are applies - like Puppet Tool.
->> Panel Titel changed from OptAllLayers 1.4 to OptAllLayers. 
+>Layers with active shy-setting will be ignored by Collapse Transformation. This prevent layers from getting broken when 	certain effects are applies - like Puppet Tool.
+</br>
+>Panel Titel changed from OptAllLayers 1.4 to OptAllLayers. 
 
 1.40
 >> First public release. 
