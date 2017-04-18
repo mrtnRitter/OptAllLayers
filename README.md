@@ -1,7 +1,7 @@
 # OptAllLayers
 Adobe After Effects Plugin-Script for Motionblur and Collapse Transformation
 
-Activate or deactivate or ignore motion blur and collapse transformation (the sun symbol) for all layers in your current comp, an other comp, an selection of comps or in all comps of your project. 
+Activate or deactivate or ignore motion blur and collapse transformation (the sun symbol) for all layers in your current comp, another comp, a selection of comps or in all comps of your project. 
 
 Go recursively through pre-comps and their layers and inclucde or exclude invisible layers (usually masks). 
 
