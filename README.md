@@ -22,7 +22,15 @@ Please allow scripts to write files in AFX-Settings to store your presetting.
 
 https://www.dropbox.com/s/z2wowgz07oljpo7/0.PNG?dl=0
 
-
 Note: 
 
 It can happen that the plugin seems to not response anymore on very, very large projects with a very huge amount of layers. Don't get nervous or impatient! The plugin is doing it's job, it's just the UI that hangs. Lean back and give it a couple of minutes. 
+
+
+Changelog: 
+
+1.41
+Layers with active shy-setting will be ignored by Collapse Transformation. This prevent layers from getting broken when certain effects are applies - like Puppet Tool.
+
+1.40
+First public release. 
