@@ -34,7 +34,7 @@ Changelog:
 
 Layers with active shy-setting will be ignored by Collapse Transformation. This prevent layers from getting broken when 	certain effects are applies - like Puppet Tool.
 
-Panel Titel changed from OptAllLayers 1.4 to OptAllLayers. 
+Panel title changed from OptAllLayers 1.4 to OptAllLayers only. 
 
 
 1.40
