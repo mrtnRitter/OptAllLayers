@@ -35,7 +35,6 @@ Layers with active shy-setting will be ignored by Collapse Transformation. This 
 
 Panel Titel changed from OptAllLayers 1.4 to OptAllLayers. 
 
----
 
 1.40
 First public release. 
