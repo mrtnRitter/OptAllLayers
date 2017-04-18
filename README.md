@@ -18,7 +18,7 @@ Installation:
 - run as dockable panel:
   C:\Program Files\Adobe\Adobe After Effects CC **YOUR CURRENT VERSION**\Support Files\Scripts\ScriptUI Panels
   
-Please allow scripts to write files in AFX-Settings to store your presetting. 
+Please allow scripts to write files in AFX-Settings to store your settings. 
 
 https://www.dropbox.com/s/z2wowgz07oljpo7/0.PNG?dl=0
 
