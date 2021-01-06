@@ -5,11 +5,6 @@ Activate or deactivate or ignore motion blur and collapse transformation (the su
 
 Go recursively through pre-comps and their layers and inclucde or exclude invisible layers (usually masks). 
 
-See the overview:
-
-https://www.dropbox.com/s/hb8ri9y0nvyq2zm/OptAllLayers_Overview.gif?dl=0
-
-
 Installation:
 
 - run as floating window: 
@@ -19,9 +14,6 @@ Installation:
   C:\Program Files\Adobe\Adobe After Effects CC **YOUR CURRENT VERSION**\Support Files\Scripts\ScriptUI Panels
   
 Please allow scripts to write files in AFX-Settings to store your settings. 
-
-https://www.dropbox.com/s/z2wowgz07oljpo7/0.PNG?dl=0
-
 
 Note:
 
