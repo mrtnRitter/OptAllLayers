@@ -1,9 +1,9 @@
 # OptAllLayers
-Adobe After Effects Plugin-Script for Motionblur and Collapse Transformation
+Adobe After Effects Plugin-Script for Motionblur and Collapse Transformation/CR
 
-Activate or deactivate or ignore motion blur and collapse transformation (the sun symbol) for all layers in your current comp, another comp, a selection of comps or in all comps of your project. 
+Activate or deactivate or ignore motion blur and collapse transformation for all layers in your current comp, another comp, a selection of comps or in all comps of your project. 
 
-Go recursively through pre-comps and their layers and inclucde or exclude invisible layers (usually masks). 
+Go recursively through pre-comps and their layers and inclucde or exclude invisible layers. 
 
 Installation:
 
@@ -14,10 +14,6 @@ Installation:
   C:\Program Files\Adobe\Adobe After Effects CC **YOUR CURRENT VERSION**\Support Files\Scripts\ScriptUI Panels
   
 Please allow scripts to write files in AFX-Settings to store your settings. 
-
-Note:
-
-It can happen that the plugin seems to not response anymore on very, very large projects with a very huge amount of layers. Don't get nervous or impatient! The plugin is doing it's job, it's just the UI that hangs. Lean back and give it a couple of minutes.
 
 
 Changelog: 
