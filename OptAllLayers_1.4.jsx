@@ -242,7 +242,7 @@
 			// ----------------------- URL -----------------------	
 			aboutPanel.groupTxt.urlBtn.onClick = function(){
 				
-				url = "http://vogelmoritz.de/arbeiten.html#Alle";
+				url = "";
 				
 				cmd = null;
 								
@@ -262,7 +262,7 @@
 			// ----------------------- MAIL -----------------------	
 			aboutPanel.groupTxt.mailBtn.onClick = function(){
 			
-				mail = "dev@vogelmoritz.de";
+				mail = "";
 				
 				cmd = null;
 							
